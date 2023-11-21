@@ -41,7 +41,7 @@ To request a booking and trigger an email notification, send a POST request to t
 curl -X POST \
   http://localhost:3000/send-email \
   -H 'Content-Type: application/x-www-form-urlencoded' \
-  -d 'firstName=John&lastName=Doe&email=johndoe@example.com&date=2023-12-01&time=14:30'
+  -d 'firstName=Janeohn&lastName=Doe&email=janedoe@example.com&date=2023-12-01&time=14:30'
 ```
 
 ### How to Receive Data
