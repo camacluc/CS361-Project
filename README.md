@@ -64,3 +64,7 @@ In case of an error:
 }`
 
 ## UML Sequence Diagram
+
+![Email Confirmation Microservice](https://github.com/camacluc/CS361-Project/assets/114314487/0944e148-f214-42d6-86eb-97ffdf1865c4)
+
+
