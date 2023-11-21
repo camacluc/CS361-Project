@@ -1,4 +1,4 @@
-# Email Confirmation Microservice Microservice
+# Email Confirmation Microservice
 
 # About The Project
 
