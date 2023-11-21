@@ -41,7 +41,7 @@ To request a booking and trigger an email notification, send a POST request to t
 curl -X POST \
   http://localhost:3000/send-email \
   -H 'Content-Type: application/x-www-form-urlencoded' \
-  -d 'firstName=Janeohn&lastName=Doe&email=janedoe@example.com&date=2023-12-01&time=14:30'
+  -d 'firstName=Jane&lastName=Doe&email=janedoe@example.com&date=2023-12-01&time=14:30'
 ```
 
 ### How to Receive Data
@@ -51,7 +51,7 @@ Example Response:
 
 `json
 {
-  "message": "Congrats John Doe! Your appointment on 2023-12-01 at 14:30 has been booked!",
+  "message": "Congrats Jane Doe! Your appointment on 2023-12-01 at 14:30 has been booked!",
   "status": "success"
 }`
 
